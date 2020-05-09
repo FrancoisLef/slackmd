@@ -19,7 +19,7 @@ $ npm install -g slackmd
 $ slackmd COMMAND
 running command...
 $ slackmd (-v|--version|version)
-slackmd/0.0.0 darwin-x64 node-v12.16.3
+slackmd/0.0.1 darwin-x64 node-v12.16.3
 $ slackmd --help [COMMAND]
 USAGE
   $ slackmd COMMAND
